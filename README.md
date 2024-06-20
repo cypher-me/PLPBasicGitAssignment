@@ -3,12 +3,12 @@ PLPAssignment
 
 
 
-### Task 1: Repository Setup
+### 1: Repository Setup
 GitHub Repository Creation: Log in to your GitHub account. Create a new repository on GitHub (let's call it "PLPBasicGitAssignment"). Initialize it with a README file.
 
 ![Repo Creation](./img/Screenshot%20from%202024-06-20%2010-21-30.png)
 
-### Task 2: Local Setup
+### 2: Local Setup
 Local Folder Setup: Create a new folder on your local machine (e.g., "PLPBasicGitAssignment"). Open a terminal or command prompt and navigate to the created folder.
 
 ![Local Creation](./img/Screenshot%20from%202024-06-20%2010-28-15.png)
@@ -36,7 +36,7 @@ Push the committed changes to your GitHub repository.
 
 ![git push](./img/Screenshot%20from%202024-06-20%2010-34-42.png)
 
-### Task 5: Verification
+### 8: Verification
 Verify on GitHub: Visit your GitHub repository in a web browser and confirm that the `hello.txt` file and commit message are visible.
 
 ![Github Verification](./img/Screenshot%20from%202024-06-20%2010-22-00.png)
